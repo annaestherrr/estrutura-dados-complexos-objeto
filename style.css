@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 30px;
+    color: rgb(32, 85, 32);
+    padding: 10px;
+}
+
+ul {
+    font-size: 15px;
+    color: rgb(32, 85, 32);
+    padding-top: 15px;
+    padding-left: 30px;
+    list-style: upper-alpha;
+}
